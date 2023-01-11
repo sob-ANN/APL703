@@ -1,6 +1,6 @@
 # APL703
 
-Projects during the course Mathematics and Computation Projects.
+Projects during the course Mathematics and Computation.
 Mostly basic python codes done from scratch.
 
 ## Advection Diffusion 
