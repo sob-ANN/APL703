@@ -3,7 +3,7 @@
 Projects during the course Mathematics and Computation.
 Mostly basic python codes done from scratch.
 
-## Advection Diffusion(https://github.com/sob-ANN/APL703/blob/main/Advection-Diffusion%20Equation%20on%20real%20world%20data.ipynb) 
+## [Advection Diffusion](https://github.com/sob-ANN/APL703/blob/main/Advection-Diffusion%20Equation%20on%20real%20world%20data.ipynb) 
 Solution of the Advection Diffusion PDE on real world wind data using different values of "Peclet Number".
 ## Image Convolution using Matrices
 Various filters applied to images are merely Matrix operations (Convolution Operation). Many of these 'filters' have been applied to images in this project by Convolution.
